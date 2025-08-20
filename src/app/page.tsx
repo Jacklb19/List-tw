@@ -28,10 +28,12 @@ export default function Home() {
             <time className="bg-indigo-50 rounded-lg px-3 py-3 text-xs text-blue-800">9:00 AM</time>
           </li>
 
-          <li className="flex items-center justify-between bg-blue-50 p-3 rounded-lg">
-            <span className="h-6 w-6 flex items-center justify-center bg-green-500 text-white rounded-full">✔</span>
-            <s className="flex-1 text-gray-700 mx-3 font-semibold">do homework</s>
-            <span className="bg-blue-100 text-blue-500 px-3 py-1 rounded-md text-xs">12:00 PM</span>
+          <li className="flex items-center justify-between">
+            <span className="flex items-center gap-2 bg-indigo-50 rounded-lg px-3 py-2 flex-1 mr-2">
+              <span className="h-5 w-5 flex items-center justify-center rounded-full bg-green-600 text-white text-xs">✔</span>
+              <s className="text-slate-700">do homework</s>
+            </span>
+            <time className="bg-indigo-50 rounded-lg px-3 py-3 text-xs text-blue-800">12:00 PM</time>
           </li>
 
           <li className="flex items-center justify-between bg-blue-50 p-3 rounded-lg">
