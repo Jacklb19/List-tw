@@ -21,50 +21,50 @@ export default function Home() {
 
         <ul className="space-y-3">
           <li className="flex items-center justify-between">
-            <span className="flex items-center gap-4 bg-indigo-50 rounded-lg px-3 py-2 flex-1 mr-2">
+            <span className="flex items-center gap-4 bg-indigo-50 rounded-lg px-3 py-3 flex-1 mr-2">
               <span className="h-5 w-5 flex items-center justify-center rounded-full bg-green-600 text-white text-xs">✔</span>
-              <s className="text-slate-700 text-xs font-bold">take out the trash</s>
+              <s className="text-slate-700 text-sm font-bold">take out the trash</s>
             </span>
             <time className="bg-indigo-50 rounded-lg px-3 py-3 text-xs text-blue-800 font-semibold">9:00 AM</time>
           </li>
 
           <li className="flex items-center justify-between">
-            <span className="flex items-center gap-4 bg-indigo-50 rounded-lg px-3 py-2 flex-1 mr-2">
+            <span className="flex items-center gap-4 bg-indigo-50 rounded-lg px-3 py-3 flex-1 mr-2">
               <span className="h-5 w-5 flex items-center justify-center rounded-full bg-green-600 text-white text-xs">✔</span>
-              <s className="text-slate-700 text-xs font-bold">do homework</s>
+              <s className="text-slate-700 text-sm font-bold">do homework</s>
             </span>
             <time className="bg-indigo-50 rounded-lg px-2 py-3 text-xs text-blue-800 font-semibold">12:00 PM</time>
           </li>
 
           <li className="flex items-center justify-between">
-            <span className="flex items-center gap-4 bg-indigo-50 rounded-lg px-3 py-2 flex-1 mr-2">
+            <span className="flex items-center gap-4 bg-indigo-50 rounded-lg px-3 py-3 flex-1 mr-2">
               <span className="h-5 w-5 flex items-center justify-center bg-white rounded-full"></span>
-              <span className="text-slate-700 text-xs font-bold">go to grocery store</span>
+              <span className="text-slate-700 text-sm font-bold">go to grocery store</span>
             </span>
             <time className="bg-indigo-50 rounded-lg px-3 py-3 text-xs text-blue-800 font-semibold">1:00 PM</time>
           </li>
 
           <li className="flex items-center justify-between">
-            <span className="flex items-center gap-4 bg-indigo-50 rounded-lg px-3 py-2 flex-1 mr-2">
+            <span className="flex items-center gap-4 bg-indigo-50 rounded-lg px-3 py-3 flex-1 mr-2">
               <span className="h-5 w-5 flex items-center justify-center bg-white rounded-full"></span>
-              <span className="text-slate-700 text-xs font-bold">run 5 kilometers</span>
+              <span className="text-slate-700 text-sm font-bold">run 5 kilometers</span>
             </span>
             <time className="bg-indigo-50 rounded-lg px-3 py-3 text-xs text-blue-800  font-semibold">4:20 PM</time>
           </li>
 
           <li className="flex items-center justify-between">
-            <span className="flex items-center gap-4 bg-indigo-50 rounded-lg px-3 py-2 flex-1 mr-2">
+            <span className="flex items-center gap-4 bg-indigo-50 rounded-lg px-3 py-3 flex-1 mr-2">
               <span className="h-5 w-5 flex items-center justify-center bg-white rounded-full"></span>
-              <span className="text-slate-700 text-xs font-bold">load the dishwasher</span>
+              <span className="text-slate-700 text-sm font-bold">load the dishwasher</span>
             </span>
             <time className="bg-indigo-50 rounded-lg px-3 py-3 text-xs text-blue-800 font-semibold">9:00 PM</time>
           </li>
 
           
           <li className="flex items-center justify-between">
-            <span className="flex items-center gap-4 bg-indigo-50 rounded-lg px-3 py-2 flex-1 mr-2">
+            <span className="flex items-center gap-4 bg-indigo-50 rounded-lg px-3 py-3 flex-1 mr-2">
               <span className="h-5 w-5 flex items-center justify-center bg-white rounded-full"></span>
-              <span className="text-slate-700 text-xs font-bold">Take out trash</span>
+              <span className="text-slate-700 text-sm font-bold">Take out trash</span>
             </span>
             <time className="bg-indigo-50 rounded-lg px-3 py-3 text-xs text-blue-800 font-semibold">9:00 AM</time>
           </li>
